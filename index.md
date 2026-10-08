@@ -1,7 +1,8 @@
 ---
+layout: home
 title: Welcome to my blog!
 ---
-# Welcome to my website
+## Welcome to my website
 
 Hi, I'm Yonach.
 
